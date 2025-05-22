@@ -18,7 +18,7 @@ We thank the authors of these repositories for their foundational work.
 ## Features
 
 - **TED**: Topological Evolution Dynamics for backdoor detection.
-- **TED++**: Locally adaptive ranking for enhanced robustness.
+- **TED++**: Locally Adaptive Ranking for enhanced robustness.
 - Integrates with a wide range of backdoor attacks and defenses.
 - Modular and extensible for research purposes.
 
