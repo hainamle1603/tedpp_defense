@@ -5,7 +5,7 @@
 > **TED++: Submanifold-Aware Backdoor Detection via Layerwise Tubular-Neighbourhood Screening**   -->
 <!-- > [Paper Link](https://arxiv.org/abs/2312.02673) -->
 
-TED++ (Topological Evolution Dynamics++) is a robust backdoor detection method for deep learning models, designed to work with minimal validation data. It extends the original TED approach by introducing locally adaptive ranking, improving detection accuracy and robustness.
+TED++ (Submanifold-Aware Backdoor Detection) is a robust backdoor detection method for deep learning models, designed to work with minimal validation data. It extends the original TED approach by introducing locally adaptive ranking, improving detection accuracy and robustness.
 
 **This implementation builds upon:**
 - [backdoor-toolbox](https://github.com/vtu81/backdoor-toolbox)
