@@ -106,7 +106,7 @@ python other_defense.py -h
 If you use this code, please cite:
 
 ```
-@article{tedpp,
+@article{tedpp_defense,
   title={TED++: Submanifold-Aware Backdoor Detection via Layerwise Tubular-Neighbourhood Screening},
   author={...},
   journal={...},
