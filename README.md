@@ -1,4 +1,4 @@
-# TED++: Submanifold-Aware Backdoor Detection via Layerwise Tubular-Neighbourhood Screening
+
 ![assets/diagram.png](assets/diagram.png)
 <!-- This repository implements the methods from the paper:
 
